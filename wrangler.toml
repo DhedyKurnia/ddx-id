@@ -2,12 +2,7 @@ name = "ddxid"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
-[[routes]] 
-pattern = "ddxid.supmuscle.store" 
-custom_domain = true 
-[[routes]] 
-pattern = "df.game.naver.com.ddxid.supmuscle.store" 
-custom_domain = true
+
 
 
 [unsafe.metadata.observability]
