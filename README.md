@@ -50,7 +50,7 @@ Kode ini masih perlu banyak perbaikan, jadi silahkan berkontribusi dan berikan P
 
 ## Instant
 
-Klik tombol di bawah  
+Klik tombol di bawaha  
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/DhedyKurnia/ddx-id)
 
 ## Manual
