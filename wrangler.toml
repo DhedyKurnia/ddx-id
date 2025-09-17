@@ -3,7 +3,9 @@ main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
 
+account_id = "3eece6b65cc3c726274f2144b79061f8"
 
+workers_dev = true
 
 [unsafe.metadata.observability]
 enabled = true
